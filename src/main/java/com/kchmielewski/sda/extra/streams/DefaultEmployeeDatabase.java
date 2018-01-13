@@ -19,36 +19,36 @@ public class DefaultEmployeeDatabase implements EmployeeDatabase {
 
     @Override
     public Map<Employee.Gender, List<Employee>> groupByGender() {
-        return employees.stream().collect(Collectors.groupingBy(Employee::getGender));
+        return null;
     }
 
     @Override
     public Map<String, List<Employee>> groupByRole() {
-        return employees.stream().collect(Collectors.groupingBy(Employee::getRole));
+        return null;
     }
 
     @Override
     public Employee min(Comparator<Employee> comparator) {
-        return employees.stream().min(comparator).orElseThrow(IllegalStateException::new);
+        return null;
     }
 
     @Override
     public Employee max(Comparator<Employee> comparator) {
-        return employees.stream().max(comparator).orElseThrow(IllegalStateException::new);
+        return null;
     }
 
     @Override
     public Double averageSalaryFor(Predicate<Employee> predicate) {
-        return employees.stream().filter(predicate).collect(Collectors.averagingDouble(Employee::getSalary));
+        return null;
     }
 
     @Override
     public <T> Map<T, List<Employee>> groupBy(Function<Employee, T> groupingFunction) {
-        return employees.stream().collect(Collectors.groupingBy(groupingFunction));
+        return null;
     }
 
     @Override
     public <T> Map<T, Double> averageSalaryGroupedBy(Function<Employee, T> groupingFunction) {
-        return employees.stream().collect(Collectors.groupingBy(groupingFunction, Collectors.averagingDouble(Employee::getSalary)));
+        return null;
     }
 }
