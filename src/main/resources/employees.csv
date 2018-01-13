@@ -1,0 +1,19 @@
+name,surname,gender,date of birth,citizenship,role,salary,project,favourite colour
+Gary,Garrett,M,1972-09-21,American,Programmer,6000,How I Met Your Programmer,blue
+Elliott,Peter,M,1982-09-06,American,Programmer,8000,Dirty Gaming,red
+Baxter,Shepherd,M,1984-01-09,British,Tester,7500,IT On Ice,blue
+Brett,Adams,M,1986-07-29,British,Scrum Master,9000,IT On Ice,red
+Lauren,Bentley,M,1989-11-07,American,Tester,4500,Dirty Gaming,blue
+Allen,Kidd,M,1973-12-06,British,Analyst,9000,How I Met Your Programmer,blue
+Damian,Svenson,M,1980-07-07,Swedish,Programmer,9000,IT On Ice,black
+Aaron,Larson,M,1993-11-21,British,Programmer,5000,How I Met Your Programmer,black
+Hardy,Cooper,M,1987-01-23,British,Tester,4500,How I Met Your Programmer,green
+Hollie,Causer,F,1989-03-10,American,Scrum Master,8000,Dirty Gaming,normal green
+Marisa,Ericson,F,1967-05-25,Swedish,Programmer,6000,IT On Ice,dark green
+Brandy,Peter,F,1977-04-26,British,Analyst,5000,Dirty Gaming,light green
+Rosa,Brown,F,1984-12-04,British,Programmer,8500,How I Met Your Programmer,sea green
+Eleanore,Neville,F,1988-11-21,American,Analyst,7500,IT On Ice,blue green
+Anastasia,Turnbull,F,1991-04-05,American,Programmer,6000,Dirty Gaming,green-yellow
+Mary,Warren,F,1982-01-06,British,Scrum Master,9000,How I Met Your Programmer,lime
+Kristine,Vinter,F,1986-02-19,Danish,Programmer,7500,How I Met Your Programmer,fresh grass
+Susanna,Henry,F,1991-11-22,American,Tester,6000,Dirty Gaming,turquoise
